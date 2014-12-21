@@ -1,0 +1,33 @@
+/**
+ * Public
+ */
+body {
+    max-width: 768px;
+    margin: 36px auto 0;
+    font-family: 'Avenir Next', 'Hiragino Sans GB', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #fff;
+}
+
+
+
+/**
+ *
+ */
+ul.sup-nav {
+    margin: 0;
+    position: fixed;
+    background-color: #fff;
+}
+
+
+
+/**
+ *
+ */
+.sup-body {
+    text-align: right;
+}
+.sup-body ul {
+    list-style: none;
+    margin: 0;
+}
